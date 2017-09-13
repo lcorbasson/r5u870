@@ -2892,7 +2892,7 @@ static const struct r5u870_model r5u870_models[] = {
 	[R5U870_DI_VGP_VCC6] = {
 		.rm_name = "Sony VGP-VCC6",
 		.rm_ucode_file = "r5u870_1839.fw",
-		.rm_ucode_version = 0x0113,
+		.rm_ucode_version = 0x0030,
 		.rm_wdm_ctrlids = r5u870_1810_1839_ctrls,
 		.rm_uvc = 1,
 	},
